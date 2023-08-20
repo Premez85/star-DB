@@ -1,0 +1,7 @@
+.indicator-error {
+    height: 200px;
+    font-size: 36px;
+
+    display: flex;
+    align-items: center;
+}
